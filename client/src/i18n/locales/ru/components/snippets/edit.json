@@ -33,6 +33,12 @@
     "mustHaveFileNames": "Все фрагменты должны иметь имя файла",
     "unsavedChanges": "У вас есть несохраненные изменения. Вы уверены, что хотите закрыть?"
   },
+<<<<<<< Updated upstream
+=======
+  "expandSidebar": "Развернуть панель",
+  "fileExtensions": "Расширения файлов",
+  "filterFiles": "Фильтр файлов",
+>>>>>>> Stashed changes
   "fragmentEditor": {
     "action": {
       "collapse": "Свернуть",
@@ -53,5 +59,8 @@
     },
     "moveDown": "Переместить вниз",
     "moveUp": "Переместить вверх"
-  }
+  },
+  "noExtension": "Без расширения",
+  "noFilesFound": "Файлы не найдены",
+  "searchFiles": "Поиск файлов..."
 }

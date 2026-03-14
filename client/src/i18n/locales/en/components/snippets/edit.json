@@ -33,6 +33,12 @@
     "mustHaveFileNames": "All fragments must have file names",
     "unsavedChanges": "You have unsaved changes. Are you sure you want to close?"
   },
+<<<<<<< Updated upstream
+=======
+  "expandSidebar": "Expand Sidebar",
+  "fileExtensions": "File extensions",
+  "filterFiles": "Filter files",
+>>>>>>> Stashed changes
   "fragmentEditor": {
     "action": {
       "collapse": "Collapse",
@@ -53,5 +59,8 @@
     },
     "moveDown": "Move down",
     "moveUp": "Move up"
-  }
+  },
+  "noExtension": "No extension",
+  "noFilesFound": "No files found matching your search",
+  "searchFiles": "Search files..."
 }

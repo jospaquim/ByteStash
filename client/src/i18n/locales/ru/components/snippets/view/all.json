@@ -1,9 +1,20 @@
 {
+  "collapseSidebar": "Свернуть панель",
   "defaultUpdateTime": "Неизвестно",
+  "expandSidebar": "Развернуть панель",
+  "fileExtensions": "Расширения файлов",
+  "files": "файлов",
+  "filterFiles": "Фильтр файлов",
   "fullCodeView": {
     "dateTimeAgo": "{{dateTime}} назад",
     "defaultDescription": "Нет описания"
   },
+<<<<<<< Updated upstream
+=======
+  "noExtension": "Без расширения",
+  "noFilesFound": "Файлы не найдены",
+  "searchFiles": "Поиск файлов...",
+>>>>>>> Stashed changes
   "snippetModal": {
     "confirmationModal": {
       "confirmLabel": {

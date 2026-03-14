@@ -1,9 +1,20 @@
 {
+  "collapseSidebar": "Contraer panel",
   "defaultUpdateTime": "Desconocido",
+  "expandSidebar": "Expandir panel",
+  "fileExtensions": "Extensiones de archivo",
+  "files": "archivos",
+  "filterFiles": "Filtrar archivos",
   "fullCodeView": {
     "dateTimeAgo": "Hace {{dateTime}}",
     "defaultDescription": "Sin descripción disponible"
   },
+<<<<<<< Updated upstream
+=======
+  "noExtension": "Sin extensión",
+  "noFilesFound": "No se encontraron archivos que coincidan con tu búsqueda",
+  "searchFiles": "Buscar archivos...",
+>>>>>>> Stashed changes
   "snippetModal": {
     "confirmationModal": {
       "confirmLabel": {

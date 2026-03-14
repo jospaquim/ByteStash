@@ -1,9 +1,20 @@
 {
+  "collapseSidebar": "Collapse Sidebar",
   "defaultUpdateTime": "Unknown",
+  "expandSidebar": "Expand Sidebar",
+  "fileExtensions": "File extensions",
+  "files": "files",
+  "filterFiles": "Filter files",
   "fullCodeView": {
     "dateTimeAgo": "{{dateTime}} ago",
     "defaultDescription": "No description available"
   },
+<<<<<<< Updated upstream
+=======
+  "noExtension": "No extension",
+  "noFilesFound": "No files found matching your search",
+  "searchFiles": "Search files...",
+>>>>>>> Stashed changes
   "snippetModal": {
     "confirmationModal": {
       "confirmLabel": {
