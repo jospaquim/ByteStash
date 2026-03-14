@@ -9,12 +9,14 @@
     "dateTimeAgo": "Hace {{dateTime}}",
     "defaultDescription": "Sin descripción disponible"
   },
-<<<<<<< Updated upstream
-=======
-  "noExtension": "Sin extensión",
-  "noFilesFound": "No se encontraron archivos que coincidan con tu búsqueda",
+  "files": "archivos",
+  "collapseSidebar": "Contraer panel",
+  "expandSidebar": "Expandir panel",
   "searchFiles": "Buscar archivos...",
->>>>>>> Stashed changes
+  "noFilesFound": "No se encontraron archivos que coincidan con tu búsqueda",
+  "filterFiles": "Filtrar archivos",
+  "fileExtensions": "Extensiones de archivo",
+  "noExtension": "Sin extensión",
   "snippetModal": {
     "confirmationModal": {
       "confirmLabel": {

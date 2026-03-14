@@ -33,12 +33,12 @@
     "mustHaveFileNames": "Todos los fragmentos deben tener nombres de archivo referenciados",
     "unsavedChanges": "Tienes cambios sin guardar. ¿Seguro que quieres cerrar?"
   },
-<<<<<<< Updated upstream
-=======
+  "searchFiles": "Buscar archivos...",
+  "noFilesFound": "No se encontraron archivos que coincidan con tu búsqueda",
   "expandSidebar": "Expandir panel",
-  "fileExtensions": "Extensiones de archivo",
   "filterFiles": "Filtrar archivos",
->>>>>>> Stashed changes
+  "fileExtensions": "Extensiones de archivo",
+  "noExtension": "Sin extensión",
   "fragmentEditor": {
     "action": {
       "collapse": "Colapsar",

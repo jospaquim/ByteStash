@@ -9,12 +9,14 @@
     "dateTimeAgo": "{{dateTime}} назад",
     "defaultDescription": "Нет описания"
   },
-<<<<<<< Updated upstream
-=======
-  "noExtension": "Без расширения",
-  "noFilesFound": "Файлы не найдены",
+  "files": "файлов",
+  "collapseSidebar": "Свернуть панель",
+  "expandSidebar": "Развернуть панель",
   "searchFiles": "Поиск файлов...",
->>>>>>> Stashed changes
+  "noFilesFound": "Файлы не найдены",
+  "filterFiles": "Фильтр файлов",
+  "fileExtensions": "Расширения файлов",
+  "noExtension": "Без расширения",
   "snippetModal": {
     "confirmationModal": {
       "confirmLabel": {
